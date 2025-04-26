@@ -13,7 +13,7 @@ body {
     background-image: url('images/gg.webp'); /* Replace with your cloud image */
     background-repeat: repeat-x;
     animation: moveClouds 50s linear infinite;
-    height: 95.7vh;
+    height: 100vh;
     
 }
 .heading{
